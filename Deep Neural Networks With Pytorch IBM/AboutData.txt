@@ -1,0 +1,4 @@
+If Data is not available then set download = True:
+Example:
+To download FashionMNIST Data do this-
+dsets.FashionMNIST("./data", download=True, transform= composed)           
